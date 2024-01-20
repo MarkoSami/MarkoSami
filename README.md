@@ -72,22 +72,7 @@
 <table>
   <tr>
     <!-- <td width='50%'></td> -->
-      <td width='50%' colspan=2>
-      <h2 align='center'>Portfolio</h2>
-      <div align='center'>  
-        <a href='https://mina-melad.onrender.com/'>
-          <img src='images/4.png' alt='portfolio'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://mina-melad.onrender.com/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, Framer motion, Tailwind CSS, Sanity </strong></p>
-      </div>
-    </td>
+      
      <tr>
       <tr>
      <td width='50%'  colspan=2>
@@ -114,22 +99,6 @@
     </td>
   </tr>
   <tr>
-    <td width='50%'>
-      <h2 align='center'>ShopVipe</h2>
-      <div align='center'>  
-        <a href='https://shop-vipe.vercel.app/'>
-          <img src='images/1.png' alt='ShopVipe'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://shop-vipe.vercel.app/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TailwindCSS, GoogleAUTH, Sanity</strong></p>
-      </div>
-    </td>
     <td width='50%'>
       <h2 align='center'>Decorate my tree</h2>
       <div align='center'>  
