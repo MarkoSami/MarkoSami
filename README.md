@@ -180,40 +180,5 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td width='50%'>
-      <h2 align='center'>XO</h2>
-      <div align='center'>  
-        <a href='https://mina-massoud.github.io/Xo-Game-using-JS/'>
-          <img src='images/5.png' alt='XO'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://mina-massoud.github.io/Xo-Game-using-JS/'>
-            <img src="icons/repo.svg"/>
-          </a>
-            <a href='https://mina-massoud.github.io/Xo-Game-using-JS/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS, JavaScript</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>Translation</h2>
-      <div align='center'>  
-        <img src='images/6.png' alt='Translation' />
-        <br>
-        <br>
-        <p>
-         <a href='https://github.com/Mina-Massoud/Translation-using-APIs'>
-            <img src="icons/repo.svg"/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS, JavaScript</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
+ 
 </table>
