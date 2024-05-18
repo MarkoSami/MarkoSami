@@ -63,7 +63,7 @@
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>Technologies Used: ADD_YOUR_TECHNOLOGIES_HERE</strong></p>
+        <p><strong>Technologies Used: NodeJs, ExpressJs, MongoDB, Elastic search, Redis, ReactJs, Cloudinary,</strong></p>
       </div>
     </td>
   </tr>
