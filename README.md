@@ -49,6 +49,24 @@
       </div>
     </td>
   </tr>
+   <tr>
+    <td width='50%' colspan=2>
+      <h2 align='center'>Blazing</h2>
+      <div align='center'>  
+        <a href='LINK_TO_YOUR_PROJECT'>
+          <img src='PATH_TO_YOUR_PROJECT_IMAGE' alt='Blazing'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='LINK_TO_YOUR_PROJECT'>
+            <img src='icons/live.svg'/>
+          </a>
+        </p>
+        <p><strong>Technologies Used: ADD_YOUR_TECHNOLOGIES_HERE</strong></p>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width='50%'>
       <h2 align='center'>Decorate my tree</h2>
