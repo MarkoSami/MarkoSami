@@ -53,13 +53,13 @@
     <td width='50%' colspan=2>
       <h2 align='center'>Blazing</h2>
       <div align='center'>  
-        <a href='LINK_TO_YOUR_PROJECT'>
+        <a href='https://github.com/Ecommerce-CS/Backend'>
           <img src='images/blazing.png' alt='Blazing'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='LINK_TO_YOUR_PROJECT'>
+          <a href='Not live yet'>
             <img src='icons/live.svg'/>
           </a>
         </p>
