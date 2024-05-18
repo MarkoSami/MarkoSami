@@ -54,7 +54,7 @@
       <h2 align='center'>Blazing</h2>
       <div align='center'>  
         <a href='LINK_TO_YOUR_PROJECT'>
-          <img src='PATH_TO_YOUR_PROJECT_IMAGE' alt='Blazing'/>
+          <img src='images/blazing.png' alt='Blazing'/>
         </a>
         <br>
         <br>
